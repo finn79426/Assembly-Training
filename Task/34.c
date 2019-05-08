@@ -22,10 +22,9 @@
 8048432:cmp    DWORD PTR [ebp-0x4],0x9
 8048436:jle    80483ff <main+0x12>
 8048438:mov    eax,0x0
-804843d:leave  
-804843e:ret   
+804843d:leave
+804843e:ret
  */
 
 int main(){
-
 }

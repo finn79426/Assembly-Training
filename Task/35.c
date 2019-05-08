@@ -9,10 +9,9 @@
 8048400:lea    eax,[ebp-0xc]
 8048403:mov    DWORD PTR [ebp-0x4],eax
 8048406:mov    eax,0x0
-804840b:leave  
-804840c:ret    
+804840b:leave
+804840c:ret
  */
 
 int main(){
-
 }
